@@ -2,7 +2,7 @@
 
 A 3D printed SCARA robot
 
-** Goals: **
+**Goals:**
 1. Learn something about how to design drivetrains and gearboxes (in general: mechanics) 
 2. Learn kinematic calculations and how to implement this in a physical system 
 3. Explore the limitations of FDM printing
