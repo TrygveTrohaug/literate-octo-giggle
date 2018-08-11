@@ -13,9 +13,9 @@ We wanted to design a robot online consisting of cheap off-the-shelf parts and p
 
 ### Resolution and gearboxes
 
-![concept_sketch](img/scara_conceptual_drivetrain.png)
-
 ### Calculating the drivetrain 
+
+![concept_sketch](img/scara_conceptual_drivetrain.png)
 
 ## Design
 
