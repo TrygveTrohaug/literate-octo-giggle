@@ -1,4 +1,6 @@
 # literate-octo-giggle 
+010 PRINT "Trygve was here!"
+020 GOTO 010
 
 A 3D printed SCARA robot
 
