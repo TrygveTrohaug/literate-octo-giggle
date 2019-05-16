@@ -1,7 +1,7 @@
 # literate-octo-giggle 
 
 A 3D printed SCARA robot
-
+r8r
 **Goals:**
 1. Learn something about how to design drivetrains and gearboxes (in general: mechanics) 
 2. Learn kinematic calculations and how to implement this in a physical system 
